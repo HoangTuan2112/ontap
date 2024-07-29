@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ontap/static/css/main.fac510dd.css",
-    "main.js": "/ontap/static/js/main.80833ade.js",
+    "main.js": "/ontap/static/js/main.985730df.js",
     "index.html": "/ontap/index.html",
     "main.fac510dd.css.map": "/ontap/static/css/main.fac510dd.css.map",
-    "main.80833ade.js.map": "/ontap/static/js/main.80833ade.js.map"
+    "main.985730df.js.map": "/ontap/static/js/main.985730df.js.map"
   },
   "entrypoints": [
     "static/css/main.fac510dd.css",
-    "static/js/main.80833ade.js"
+    "static/js/main.985730df.js"
   ]
 }
