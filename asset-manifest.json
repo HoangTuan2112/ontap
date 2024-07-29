@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ontap/static/css/main.fac510dd.css",
+    "main.js": "/ontap/static/js/main.5870afce.js",
+    "index.html": "/ontap/index.html",
+    "main.fac510dd.css.map": "/ontap/static/css/main.fac510dd.css.map",
+    "main.5870afce.js.map": "/ontap/static/js/main.5870afce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fac510dd.css",
+    "static/js/main.5870afce.js"
+  ]
+}
